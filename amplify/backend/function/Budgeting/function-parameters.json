@@ -1,0 +1,17 @@
+{
+  "lambdaLayers": [],
+  "environmentVariableList": [
+    {
+      "cloudFormationParameterName": "region",
+      "environmentVariableName": "REGION"
+    },
+    {
+      "cloudFormationParameterName": "tableName",
+      "environmentVariableName": "TABLE_NAME"
+    },
+    {
+      "cloudFormationParameterName": "userPoolId",
+      "environmentVariableName": "USER_POOL_ID"
+    }
+  ]
+}

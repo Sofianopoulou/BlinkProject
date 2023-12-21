@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BlinkProject
 BlinkApp: A white label app that makes budgeting fun and efficient for the young generation powered by Artificial intelligence
 
@@ -21,3 +22,21 @@ Blink is a dynamic B2B2C budgeting application tailored for the young generation
 As a passionate Frontend Developer at Blink, I am actively contributing to the enhancement of user interface and experience design using Flutter. In my ongoing role with the Blink app, I play a pivotal role in translating intricate design concepts into seamlessly responsive and user-friendly features. Leveraging my expertise in Flutter development, I am dedicated to crafting an intuitive and visually appealing frontend that aligns with Blink's commitment to making budgeting both enjoyable and efficient for the young generation.
 
 Explore the Blink app's frontend repository to witness the collaboration of design and technology in action! 💻✨
+=======
+# frontend
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> d65653c (Initial commit)
