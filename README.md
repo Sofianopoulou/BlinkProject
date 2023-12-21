@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 # BlinkProject
 BlinkApp: A white label app that makes budgeting fun and efficient for the young generation powered by Artificial intelligence
 
 ### Blink Budgeting App - Frontend Development
 
-![Blink Logo](https://github.com/Sofianopoulou/BlinkProject/blob/2bf5209b808513ed5d89789841a8d0e26f9ead07/assets/logo.svg)
+![Blink Logo](https://github.com/Sofianopoulou/BlinkProject/blob/8ea58424b0437cb7d73a3ed9726d76aa01f2f091/assets/logo.svg)
 
 🌐 **About Blink App:**
 
