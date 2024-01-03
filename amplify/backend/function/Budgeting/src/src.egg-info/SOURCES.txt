@@ -1,9 +1,0 @@
-setup.py
-app/budgeting.py
-app/constants.py
-app/expenditures.py
-app/lamda_function.py
-src.egg-info/PKG-INFO
-src.egg-info/SOURCES.txt
-src.egg-info/dependency_links.txt
-src.egg-info/top_level.txt

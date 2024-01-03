@@ -1,5 +1,0 @@
-{
-  "Effect": "Allow",
-  "Action": "dynamodb:Query",
-  "Resource": "arn:aws:dynamodb:us-east-2:456436182354:table/aws-plaid-demo-app-Table-1MXN2Q7NEJRTH"
-}
